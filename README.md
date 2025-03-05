@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/HexRift/Vortex-Base/main/listui.png)
+![alt text](https://raw.githubusercontent.com/HexRift/Vortex-Base/refs/heads/main/listui.png)
 
 # Welcome!
 - This is an internal base for the game Grand Theft Auto V and the list UI version of it
@@ -13,7 +13,7 @@
 - https://cmake.org/download/
 - I recommend using visual studio code for the project since that is what I created it in
 - Installation from CMD ***(important)***:
-1. git clone https://github.com/Vortex-Base/Vortex-Base.git --recurse-submodules
+1. git clone https://github.com/HexRift/Vortex-Base.git --recurse-submodules
 - Now you should be able to open the folder installed with visual studio code and run "CMake: Select a Kit", "CMake: Configure" followed by "CMake: Build"
 
 # Disclaimer
